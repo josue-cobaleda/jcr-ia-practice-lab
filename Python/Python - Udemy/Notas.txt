@@ -1,0 +1,13 @@
+https://docs.python.org/3/library/math.html
+
+https://images.datacamp.com/image/upload/v1697798108/Markdown_Cheat_Sheet_9657d9746f.png
+
+https://ellibrodepython.com/programacion-orientada-a-objetos-python
+
+https://miro.com/app/board/uXjVLVT80CU=/
+
+def is_even(number):
+    return number % 2 == 0
+
+print(is_even(4))  # Salida: True
+print(is_even(7))  # Salida: False
